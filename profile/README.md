@@ -4,3 +4,7 @@
   <h1>Welcome to blendOS!</h1>
   <i>The only operating system you'll ever need. A seamless blend of all Linux distributions, Android apps and web apps.</i>
 </div>
+
+
+>[!IMPORTANT]
+>This organization is a mirror of [git.blendos.co/blendos](https://git.blendos.co/blendos). All commits and issues should be directed there.
