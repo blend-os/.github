@@ -8,4 +8,4 @@
 
 
 >[!IMPORTANT]
->This organization is a read only mirror of [git.blendos.co/blendos](https://git.blendos.co/blendos). All commits and issues should be directed there.
+>This organization is a read only mirror of [git.blendos.co/blendOS](https://git.blendos.co/blendOS). All commits and issues should be directed there.
